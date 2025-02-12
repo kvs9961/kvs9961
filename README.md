@@ -8,6 +8,7 @@ I specialize in:
 - **Deep Learning** (DL) 🧠  
 - **Computer Vision** 👁️  
 - **Data Analysis and Visualization** 📊
+- **Python** 
 
 Join me on my journey through the galaxy of code and innovation, where each repository is a new planet to explore! 🌍
 
