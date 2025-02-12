@@ -49,7 +49,8 @@ Cleaning and analysis of dirty clinical trial data testing the efficacy of a new
 
 ## 🌍 Let’s Connect and Launch New Projects!
 
-- **LinkedIn**: [Your LinkedIn Profile](#) 🌐  
+- **LinkedIn**: [https://www.linkedin.com/in/kvs-harsha](https://www.linkedin.com/in/kvs-harsha)
+- **Youtube**: [[KVS TRICKS](https://www.youtube.com/@KVSTricks)] 🌐  
 - **Portfolio**: [Your Portfolio Link](#) 📂
 
 Feel free to explore my repositories as we journey through the cosmos of AI and Machine Learning. Let’s make space for innovation together! 🌌
