@@ -35,8 +35,8 @@ Cleaning and analysis of dirty clinical trial data testing the efficacy of a new
 ## 🌠 Skills & Technologies: My Space Gear
 
 - **Programming Languages**: Python 🐍  
-- **Machine Learning Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras  
-- **Computer Vision**: OpenCV, face_recognition 👁️  
+- **Machine Learning Libraries**: NumPy, Pandas, Scikit-learn, Keras  
+- **Computer Vision**: OpenCV 👁️  
 - **Data Visualization**: Matplotlib, Seaborn, Power BI 📊  
 - **Database Management**: SQL 💾  
 - **Tools & Frameworks**: Git, Jupyter Notebooks 📝  
