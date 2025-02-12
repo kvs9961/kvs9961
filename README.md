@@ -25,11 +25,10 @@ Launched a facial recognition-based system to eliminate proxy attendance in scho
 - **Mission Goal**: Ensure accurate attendance tracking using real-time face recognition.  
 - **Current Status**: Successfully identified the culprit! 🕵️‍♂️
 
-### <h3>3. [**Fake News Detection System**](#)</h3>
-A project to detect and classify fake news using **NLP** techniques. Think of it as a **truth detector** scanning the galaxy for misinformation.  
-- **Technologies**: Python, Scikit-learn, NLP  
-- **Mission Goal**: Separate the real from the fake in the universe of news.  
-- **Current Status**: Misinformation, beware! 🚫
+### 3. Clinical Trial Data Analysis <br>Cleaning and analysis of dirty clinical trial data testing the efficacy of a new drug (Auralin).
+- **Technologies**: Python, Jupyter Notebook, Data Cleaning, Data Analysis
+- **Mission Goal**: Assess and clean clinical trial data for evaluating a new diabetes drug.
+- **Current Status**: Data cleaned and analyzed! 🧑‍🔬
 
 ## 🌠 Skills & Technologies: My Space Gear
 
