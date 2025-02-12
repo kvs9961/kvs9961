@@ -25,7 +25,8 @@ Launched a facial recognition-based system to eliminate proxy attendance in scho
 - **Mission Goal**: Ensure accurate attendance tracking using real-time face recognition.  
 - **Current Status**: Successfully identified the culprit! 🕵️‍♂️
 
-### 3. Clinical Trial Data Analysis <br>Cleaning and analysis of dirty clinical trial data testing the efficacy of a new drug (Auralin).
+### <h3>3. [**Clinical Trial Data Analysis**](#)</h3>
+Cleaning and analysis of dirty clinical trial data testing the efficacy of a new drug (Auralin).
 - **Technologies**: Python, Jupyter Notebook, Data Cleaning, Data Analysis
 - **Mission Goal**: Assess and clean clinical trial data for evaluating a new diabetes drug.
 - **Current Status**: Data cleaned and analyzed! 🧑‍🔬
