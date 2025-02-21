@@ -35,7 +35,7 @@ Cleaning and analysis of dirty clinical trial data testing the efficacy of a new
 ## 🌠 Skills & Technologies: My Space Gear
 
 - **Programming Languages**: Python 🐍  
-- **Machine Learning Libraries**: NumPy, Pandas, Scikit-learn, Keras  
+- **Machine Learning Libraries**: NumPy, Pandas, Scikit-learn 
 - **Computer Vision**: OpenCV 👁️  
 - **Data Visualization**: Matplotlib, Seaborn, Power BI 📊  
 - **Database Management**: SQL 💾  
@@ -44,12 +44,11 @@ Cleaning and analysis of dirty clinical trial data testing the efficacy of a new
 ## 🛸 Learning Goals & Interests: My Next Mission
 
 - Explore more **Deep Learning** galaxies and **AI** constellations.  
-- Contribute to **open-source projects**—the more, the merrier! 🧑‍🚀  
-- Dive deeper into **Natural Language Processing (NLP)** and **Reinforcement Learning**.
+- Contribute to **open-source projects**—the more, the merrier! 🧑‍🚀
 
 ## 🌍 Let’s Connect and Launch New Projects!
 
-- **LinkedIn**: [https://www.linkedin.com/in/kvs-harsha](https://www.linkedin.com/in/kvs-harsha)
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/kvs-harsha)
 - **Youtube**: [[KVS TRICKS](https://www.youtube.com/@KVSTricks)] 🌐  
 - **Portfolio**: [Your Portfolio Link](#) 📂
 
