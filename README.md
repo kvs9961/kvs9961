@@ -1,11 +1,11 @@
 # <h1>💫 About Me:</h1>
 ## <h2>🌌 Welcome to My GitHub Profile! 🚀</h2>
 
-Greetings, Earthlings! 👨‍🚀 I'm **KVS Harsha Vardhan Reddy**, an **Aspiring AI/ML Engineer** on a mission to explore the vast universe of **Machine Learning**, **Deep Learning**, and **Data Science**. I’ve got my spaceship fueled up with **Python** and ready to blast off into the stars, solving real-world problems using AI-powered solutions! 🌠
+Greetings, Earthlings! 👨‍🚀 I'm **KVS Harsha Vardhan Reddy** (KVS), an **Associate AI Engineer & AI Educator** based in Hyderabad, India, navigating the galaxy of **Generative AI**, **Machine Learning**, and **Agentic Systems**. I run **KVSTricks**, where I teach Generative AI, Python, Machine Learning, and LangChain to working professionals and learners across Hyderabad/Telangana — and when I'm not teaching, I'm building AI-powered solutions with **Python**. 🌠
 
 I specialize in:
-- **Machine Learning** (ML) 🤖  
-- **Deep Learning** (DL) 🧠  
+- **Generative AI** & **LLM-powered Agents** 🤖  
+- **Machine Learning** (ML) & **Deep Learning** (DL) 🧠  
 - **Computer Vision** 👁️  
 - **Data Analysis and Visualization** 📊
 - **Python** 
@@ -32,18 +32,37 @@ Cleaning and analysis of dirty clinical trial data testing the efficacy of a new
 - **Mission Goal**: Assess and clean clinical trial data for evaluating a new diabetes drug.
 - **Current Status**: Data cleaned and analyzed! 🧑‍🔬
 
+### <h3>4. [**Jarvis System — Multi-Agent AI Desktop Assistant**](#)</h3>
+A Python-based multi-agent AI desktop assistant built around the Mistral LLM, featuring voice input, vision, memory, scheduling, email, and automation. Think of it as a **personal mission control** for everyday tasks.  
+- **Technologies**: Python, Mistral LLM, ChromaDB (RAG), Speech Recognition/TTS, Multi-Agent Architecture  
+- **Mission Goal**: Build a fully autonomous, voice-driven assistant with 7 specialized agents, continuous voice listening, and a safety-aware permission system.  
+- **Current Status**: Core systems online, audited, and stabilized! 🛰️
+
+### <h3>5. [**KVSTricks Website**](https://www.youtube.com/@KVSTricks)</h3>
+A professional website and learning hub for KVSTricks, featuring a working demo booking system, email notifications, and an AI-powered chatbot.  
+- **Technologies**: HTML, CSS, JavaScript, Vercel Serverless Functions, Resend (email), Mistral AI (chatbot)  
+- **Mission Goal**: Provide a polished, conversion-ready front door for GenAI/Python/ML courses.  
+- **Current Status**: Live and orbiting steadily! 🌐
+
+### <h3>6. [**Generative AI Course Book**](#)</h3>
+A comprehensive 14-class course book covering AI/ML/DL/GenAI fundamentals through RAG, MCP, Perplexity AI, and the broader AI tools landscape (40+ tools) — built as a single unified, professionally designed document.  
+- **Technologies**: Node.js, `docx` library, Custom Visual Design System  
+- **Mission Goal**: Equip learners with a complete, structured reference for the GenAI ecosystem.  
+- **Current Status**: Published and in active use across cohorts! 📘
+
 ## 🌠 Skills & Technologies: My Space Gear
 
 - **Programming Languages**: Python 🐍  
+- **Generative AI**: Mistral AI, LangChain, RAG (ChromaDB), Prompt Engineering 🧬  
 - **Machine Learning Libraries**: NumPy, Pandas, Scikit-learn 
 - **Computer Vision**: OpenCV 👁️  
 - **Data Visualization**: Matplotlib, Seaborn, Power BI 📊  
 - **Database Management**: SQL 💾  
-- **Tools & Frameworks**: Git, Jupyter Notebooks 📝  
+- **Tools & Frameworks**: Git, Jupyter Notebooks, Vercel 📝  
 
 ## 🛸 Learning Goals & Interests: My Next Mission
 
-- Explore more **Deep Learning** galaxies and **AI** constellations.  
+- Explore deeper into **Agentic AI** systems and **multi-agent architectures**.  
 - Contribute to **open-source projects**—the more, the merrier! 🧑‍🚀
 
 ## 🌍 Let’s Connect and Launch New Projects!
